@@ -1,7 +1,9 @@
 # Helpline Numbers for Common Hospital Equipment
 
 ---
-*We can help your hospital administrators to resolve these *
+Please drop a line at anand@healingourhealers.network for any of the following:
+- *Your device is not listed here*
+- *You want us to talk to your hospital administrators to resolve these in bulk*
 ---
 
 Device | Company | Contact | How to minimize wait-time
